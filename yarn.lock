@@ -2609,6 +2609,19 @@
   "resolved" "https://registry.npmjs.org/boolbase/-/boolbase-1.0.0.tgz"
   "version" "1.0.0"
 
+"bootstrap-social@^5.1.1":
+  "integrity" "sha1-dTDGeK31bPj60/qCwp1NPl0CdQE="
+  "resolved" "https://registry.npmjs.org/bootstrap-social/-/bootstrap-social-5.1.1.tgz"
+  "version" "5.1.1"
+  dependencies:
+    "bootstrap" "~3"
+    "font-awesome" "~4.7"
+
+"bootstrap@~3":
+  "integrity" "sha512-yN5oZVmRCwe5aKwzRj6736nSmKDX7pLYwsXiCj/EYmo16hODaBiT4En5btW/jhBF/seV+XMx3aYwukYC3A49DA=="
+  "resolved" "https://registry.npmjs.org/bootstrap/-/bootstrap-3.4.1.tgz"
+  "version" "3.4.1"
+
 "bootstrap@4.5.2":
   "integrity" "sha512-vlGn0bcySYl/iV+BGA544JkkZP5LB3jsmkeKLFQakCOwCM3AOk7VkldBz4jrzSe+Z0Ezn99NVXa1o45cQY4R6A=="
   "resolved" "https://registry.npmjs.org/bootstrap/-/bootstrap-4.5.2.tgz"
@@ -4278,6 +4291,11 @@
   "version" "1.10.0"
   dependencies:
     "debug" "^3.0.0"
+
+"font-awesome@^4.7.0", "font-awesome@~4.7":
+  "integrity" "sha1-j6jPBBGhoxr9B7BtKQK7n8gVoTM="
+  "resolved" "https://registry.npmjs.org/font-awesome/-/font-awesome-4.7.0.tgz"
+  "version" "4.7.0"
 
 "fork-ts-checker-webpack-plugin@^6.5.0":
   "integrity" "sha512-cS178Y+xxtIjEUorcHddKS7yCMlrDPV31mt47blKKRfMd70Kxu5xruAFE2o9sDY6wVC5deuob/u/alD04YYHnw=="
